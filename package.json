@@ -1,0 +1,10 @@
+{
+  "name": "orbit-network-orb",
+  "version": "12.0.0",
+  "private": true,
+  "description": "ORBIT NETWORK Telegram Mini App with backend referral tracking",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"better-sqlite3": "^11.10.0", "express": "^5.1.0"}
+}
